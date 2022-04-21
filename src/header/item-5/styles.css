@@ -1,0 +1,12 @@
+.calc-item-5 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  right: 46.9px;
+}
+
+.flex-item-5 {
+  background-color: #ffa500;
+  width: 220px;
+}
